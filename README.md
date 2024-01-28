@@ -3,6 +3,8 @@
 
 This Script Calculates a successful breeding path to a target Pal with a specified Inherited Pal (or pals). There can be multiple inherited pals, and excluded pals can also be specified (in the event you don't have the pal!)
 
+<img width="430" alt="image" src="https://github.com/WordenAFT/Palworld_BreedChain_Calculator/assets/37527600/1fc835f5-92c3-41b9-a0f7-536fee27fb32">
+
 
 The packaged .exe file was >25 MB (~100 mb, so I can't upload it here. If you have ideas on how to do that, let me know!
 
@@ -29,8 +31,6 @@ Hope you like it!
 ## <u> Google Drive Link to Download .exe: </u>
 
 [https://drive.google.com/file/d/1AmKo9uJZsMxqj9d8olUlGAiaW0TK2rY7/view?usp=drive_link](https://drive.google.com/file/d/14RuhLwh1cPLan1hxQsd55XGBmW-VJiEr/view?usp=drive_link)
-
-<img width="430" alt="image" src="https://github.com/WordenAFT/Palworld_BreedChain_Calculator/assets/37527600/1fc835f5-92c3-41b9-a0f7-536fee27fb32">
 
 ### Notes on the Download (Why in the world.... is it 297MB??)
 
