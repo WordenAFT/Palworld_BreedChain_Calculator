@@ -12,7 +12,8 @@ The packaged .exe file was >25 MB (~300 mb!?, so I can't upload it here. If you 
 * The inputs are not case-sensitive. Have at it!
 
 ### Limitations
-This script also cannot handle special combination target species. I plan to work on this in the next few days and upload a change to allow for it.
+* This script cannot handle special combination target species. I plan to work on this in the next few days and upload a change to allow for it.
+* There are some issues associated with breeds where there is a tie between the next highest and lowest Pal name/breed power pairs (Breeding Maraith + Chikipi for example = Bristla, but this program will output Fuack). Please help me fix it!
 
 Special Combinations (Not currently handled):
 
