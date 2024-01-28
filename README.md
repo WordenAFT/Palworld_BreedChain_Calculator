@@ -10,7 +10,8 @@ The packaged .exe file was >25 MB (~100 mb, so I can't upload it here. If you ha
 ### Limitations
 This script also cannot handle special combination target species. I plan to work on this in the next few days and upload a change to allow for it.
 
-Special Combos: ['Relaxaurus Lux', 'Incineram Noct', 'Mau Cryst',
+Special Combinations (Not currently handled):
+`'Relaxaurus Lux', 'Incineram Noct', 'Mau Cryst',
                        'Vanwyrm Cryst','Eikthyrdeer Terra','Elphidran Aqua',
                         'Pyrin Noct','Mammorest Cryst','Mossanda Lux',
                         'Dinossom Lux','Jolthog Cryst','Frostallion Noct',
@@ -18,8 +19,7 @@ Special Combos: ['Relaxaurus Lux', 'Incineram Noct', 'Mau Cryst',
                         'Blazehowl Noct','Robinquill Terra','Broncherry Aqua',
                  'Surfent Terra','Gobfin Ignus','Suzaku Aqua',
                        'Reptyro Cryst','Hangyu Cryst','Lyleen',
-                     'Faleris','Grizzbolt','Orserk',
-                       'Shadowbeak']
+                     'Faleris','Grizzbolt','Orserk',                      'Shadowbeak'`
 
 Hope you like it!
 
