@@ -32,6 +32,8 @@ Hope you like it!
 
 [https://drive.google.com/file/d/1AmKo9uJZsMxqj9d8olUlGAiaW0TK2rY7/view?usp=drive_link](https://drive.google.com/file/d/14RuhLwh1cPLan1hxQsd55XGBmW-VJiEr/view?usp=drive_link)
 
+[Google](https://www.google.com](https://drive.google.com/file/d/1AmKo9uJZsMxqj9d8olUlGAiaW0TK2rY7/view?usp=drive_link](https://drive.google.com/file/d/14RuhLwh1cPLan1hxQsd55XGBmW-VJiEr/view?usp=drive_link) "Go to Google")
+
 ### Notes on the Download (Why in the world.... is it 297MB??)
 
 I am an absolute amateur with packaging python scripts into a .exe. This script uses Tkinter for the GUI and Pyinstaller to package, which resulted in a final file size of 297MB. This is grossly bloated since the two scripts i developed for this project total approximately 15 kb. If you have ideas on how I can package this in a much smaller format, please let me know!
