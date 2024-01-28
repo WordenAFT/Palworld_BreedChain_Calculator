@@ -6,7 +6,7 @@ This Script Calculates a successful breeding path to a target Pal with a specifi
 <img width="430" alt="image" src="https://github.com/WordenAFT/Palworld_BreedChain_Calculator/assets/37527600/1fc835f5-92c3-41b9-a0f7-536fee27fb32">
 
 
-The packaged .exe file was >25 MB (~100 mb, so I can't upload it here. If you have ideas on how to do that, let me know!
+The packaged .exe file was >25 MB (~300 mb!?, so I can't upload it here. If you have ideas on how to do that, let me know!
 
 * When adding pals to the inherited and excluded lists, do not add commas between the pal names.
 * The inputs are not case-sensitive. Have at it!
@@ -30,10 +30,10 @@ Hope you like it!
 
 ## <u> Google Drive Link to Download .exe: </u>
 
-[Google Drive Link](https://drive.google.com/file/d/14RuhLwh1cPLan1hxQsd55XGBmW-VJiEr/view?usp=drive_link "Click here to download")
+[Google Drive Link](https://drive.google.com/file/d/1o5R80St78ogv2ssVlVJ165gyvVunwFeJ/view?usp=drive_link "Click here to download")
 
 
 
 ### Notes on the Download (Why in the world.... is it 297MB??)
 
-I am an absolute amateur with packaging python scripts into a .exe. This script uses Tkinter for the GUI and Pyinstaller to package, which resulted in a final file size of 297MB. This is grossly bloated since the two scripts i developed for this project total approximately 15 kb. If you have ideas on how I can package this in a much smaller format, please let me know!
+I am an absolute amateur with packaging python scripts into a .exe. This script uses Tkinter for the GUI and Pyinstaller to package, which resulted in a final file size of 297MB. This is grossly bloated since the two scripts i developed for this project total approximately 15 kb. If you have ideas on how I can package this in a much smaller format, *please* let me know!
