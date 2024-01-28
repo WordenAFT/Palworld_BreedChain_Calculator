@@ -31,9 +31,7 @@ Hope you like it!
 
 ## <u> Google Drive Link to Download .exe: </u>
 
-[Google Drive Link](https://drive.google.com/file/d/1o5R80St78ogv2ssVlVJ165gyvVunwFeJ/view?usp=drive_link "Click here to download")
-
-
+[Google Drive Link](https://drive.google.com/file/d/1vrs_TYwLvihPvQML76mW6Di7cAzAFnG1/view?usp=drive_link "Click here to download")
 
 ### Notes on the Download (Why in the world.... is it 297MB??)
 
