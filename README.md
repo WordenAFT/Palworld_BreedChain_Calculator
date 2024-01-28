@@ -4,11 +4,11 @@ This Script Calculates a successful breeding path to a target Pal with a specifi
 
 The packaged .exe file was >25 MB (~100 mb, so I can't upload it here. If you have ideas on how to do that, let me know!
 
-When adding pals to the inherited and excluded lists, do not add commas between the pal names.
+* When adding pals to the inherited and excluded lists, do not add commas between the pal names.
+* The inputs are not case-sensitive. Have at it!
 
+### Limitations
 This script also cannot handle special combination target species. I plan to work on this in the next few days and upload a change to allow for it.
-
-## Notes
 
 Special Combos: ['Relaxaurus Lux', 'Incineram Noct', 'Mau Cryst',
                        'Vanwyrm Cryst','Eikthyrdeer Terra','Elphidran Aqua',
