@@ -26,4 +26,7 @@ Special Combinations (Not currently handled):
 
 Hope you like it!
 
+## <u> Google Drive Link to Download .exe: </u>
+
+
 <img width="430" alt="image" src="https://github.com/WordenAFT/Palworld_BreedChain_Calculator/assets/37527600/1fc835f5-92c3-41b9-a0f7-536fee27fb32">
