@@ -1,4 +1,5 @@
-# Palworld Breeding Chain Calculator (Current as of 27 Jan 24)
+# Palworld Breeding Chain Calculator
+(Current as of 27 Jan 24)
 This Script Calculates a successful breeding path to a target Pal with a specified Inherited Pal (or pals). There can be multiple inherited pals, and excluded pals can also be specified (in the event you don't have the pal!)
 
 
