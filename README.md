@@ -8,6 +8,8 @@ When adding pals to the inherited and excluded lists, do not add commas between 
 
 This script also cannot handle special combination target species. I plan to work on this in the next few days and upload a change to allow for it.
 
+## Notes
+
 Special Combos: ['Relaxaurus Lux', 'Incineram Noct', 'Mau Cryst',
                        'Vanwyrm Cryst','Eikthyrdeer Terra','Elphidran Aqua',
                         'Pyrin Noct','Mammorest Cryst','Mossanda Lux',
