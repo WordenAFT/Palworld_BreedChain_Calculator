@@ -28,6 +28,6 @@ Hope you like it!
 
 ## <u> Google Drive Link to Download .exe: </u>
 
-https://drive.google.com/file/d/1AmKo9uJZsMxqj9d8olUlGAiaW0TK2rY7/view?usp=drive_link
+[https://drive.google.com/file/d/1AmKo9uJZsMxqj9d8olUlGAiaW0TK2rY7/view?usp=drive_link](https://drive.google.com/file/d/14RuhLwh1cPLan1hxQsd55XGBmW-VJiEr/view?usp=drive_link)
 
 <img width="430" alt="image" src="https://github.com/WordenAFT/Palworld_BreedChain_Calculator/assets/37527600/1fc835f5-92c3-41b9-a0f7-536fee27fb32">
