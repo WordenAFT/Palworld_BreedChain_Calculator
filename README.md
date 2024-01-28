@@ -20,3 +20,5 @@ Special Combos: ['Relaxaurus Lux', 'Incineram Noct', 'Mau Cryst',
                        'Shadowbeak']
 
 Hope you like it!
+
+<img width="430" alt="image" src="https://github.com/WordenAFT/Palworld_BreedChain_Calculator/assets/37527600/1fc835f5-92c3-41b9-a0f7-536fee27fb32">
